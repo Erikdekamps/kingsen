@@ -1,10 +1,12 @@
 <!DOCTYPE HTML>
 <html http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <head>
-    <link rel="stylesheet" href="style.css"/>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0, maximum-scale=1.0">
+  <meta name="description" content="An online version of the drinking game called Kingsen">
+  <link rel="stylesheet" href="style.css"/>
   <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
   <link rel="icon" href="img/favicon.ico" type="image/x-icon">
-  <title>Online Kingsen</title>
+<title>Online Kingsen</title>
 </head>
   <body>
     <div id="container">
