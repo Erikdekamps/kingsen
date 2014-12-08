@@ -2,7 +2,7 @@ html, body{
   font-family: arial, sans-serif;
 }
 #container{
-  margin: 0 auto;
+  margin: 25px auto;
   width: 200px;
   text-align: center;
 }
@@ -12,8 +12,8 @@ cursor: pointer;
 -webkit-user-select: none;
 -moz-user-select: none;
 }
-#container .content p.title{
-  font: 25px/20px arial,sans-serif;
+#container .content h2.title{
+  font: 20px/25px arial,sans-serif;
   color: #ff0000;
   margin:0;
 }

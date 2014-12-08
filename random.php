@@ -6,7 +6,7 @@ $type = $cards[$number]['type'];
 $rule = $cards[$number]['rule'];
 $description = $cards[$number]['description'];
 
-print '<p class="title">' . $name . ' of ' . $type . '</p>';
+print '<h2 class="title">' . $name . ' of ' . $type . '</h2>';
 print '<p class="name">' . $rule . '</p>';
 print '<p class="sprite image-' . $number . '"></p>';
 print '<p class="description">' . $description . '</p>';

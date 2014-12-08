@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="style.css"/>
   <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
   <link rel="icon" href="img/favicon.ico" type="image/x-icon">
-  <title>Online kingsen</title>
+  <title>Online Kingsen</title>
 </head>
   <body>
     <div id="container">
@@ -31,7 +31,7 @@ $(document).ready(function(){
   Sprite.src = "img/sprite.png";
 
 	var random = Math.floor(Math.random() * 2) + 1;
-	$(".content").html('<p class="title">Online Kingsen</p><p class="name">Klik om te beginnen</p><p class="sprite deck-' + random + '"></p><p class="description">Klik op de kaart voor een willekeurig nieuwe kaart</p>');
+	$(".content").html('<h2 class="title">Online Kingsen</h2><p class="name">Click on the card to start</p><p class="sprite deck-' + random + '"></p><p class="description">Click on the card for a random new card.</p>');
 	$(".content").fadeIn('fast');
 
 	$('.content').on("click", function(){
