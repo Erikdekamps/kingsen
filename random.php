@@ -173,25 +173,25 @@ $cards = array(
     'name' => 'Seven',
     'type' => 'Clubs',
     'rule' => 'Counting game',
-    'description' => 'Start counting up from 1, you can\'t say any 7 or multiplication of 7, skip it or drink one'
+    'description' => 'Start counting up from 1, you can\'t say any 7 or multiple of 7, who does drinks'
   ),
   30 => array(
     'name' => 'Seven',
     'type' => 'Spades',
     'rule' => 'Counting game',
-    'description' => 'Start counting up from 1, you can\'t say any 7 or multiplication of 7, skip it or drink one'
+    'description' => 'Start counting up from 1, you can\'t say any 7 or multiple of 7, who does drinks'
   ),
   31 => array(
     'name' => 'Seven',
     'type' => 'Hearts',
     'rule' => 'Counting game',
-    'description' => 'Start counting up from 1, you can\'t say any 7 or multiplication of 7, skip it or drink one'
+    'description' => 'Start counting up from 1, you can\'t say any 7 or multiple of 7, who does drinks'
   ),
   32 => array(
     'name' => 'Seven',
     'type' => 'Diamonds',
     'rule' => 'Counting game',
-    'description' => 'Start counting up from 1, you can\'t say any 7 or multiplication of 7, skip it or drink one'
+    'description' => 'Start counting up from 1, you can\'t say any 7 or multiple of 7, who does drinks'
   ),
   33 => array(
     'name' => 'Six',
