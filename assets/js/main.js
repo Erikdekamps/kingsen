@@ -1,4 +1,5 @@
 $(document).ready(function(){
+
   Sprite = new Image(143,10800);
   Sprite.src = "../img/sprite.png";
 
