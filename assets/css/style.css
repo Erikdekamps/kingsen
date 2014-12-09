@@ -24,7 +24,7 @@ cursor: pointer;
   margin: 20px auto;
   height:200px;
   width: 143px;
-  background: url('img/sprite.png');
+  background: url('../img/sprite.png');
 }
 .deck-1, .deck-2 {width: 143px;height: 200px;}
 .image-* {width: 143px;height: 200px;}
