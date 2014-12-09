@@ -321,7 +321,7 @@ $type = $cards[$number]['type'];
 $rule = $cards[$number]['rule'];
 $description = $cards[$number]['description'];
 
-print '<h2 class="title">' . $name . ' of ' . $type . '</h2>';
-print '<p class="name">' . $rule . '</p>';
+print '<h1 class="title">' . $name . ' of ' . $type . '</h1>';
+print '<h2 class="name">' . $rule . '</h2>';
 print '<p class="sprite image-' . $number . '"></p>';
 print '<p class="description">' . $description . '</p>';

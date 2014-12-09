@@ -12,15 +12,17 @@ cursor: pointer;
 -webkit-user-select: none;
 -moz-user-select: none;
 }
-#container .content h2.title{
-  font: 20px/25px arial,sans-serif;
+#container .content h1.title{
+  font-size: 22px;
   color: #ff0000;
   margin:0;
 }
-#container .content p.name {
+#container .content h2.name {
   margin-bottom: 0;
+  font-size: 15px;
+  font-weight: normal;
 }
-.sprite,.deck-1,.deck-2{
+.sprite,.deck-1,.deck-2 {
   margin: 20px auto;
   height:200px;
   width: 143px;
@@ -30,7 +32,6 @@ cursor: pointer;
 .image-* {width: 143px;height: 200px;}
 .deck-1{background-position: 0px 0px;}
 .deck-2{background-position: 0px -200px;}
-
 /* All card images */
 .image-1{background-position: 0px -400px;}
 .image-10{background-position: 0px -600px;}
