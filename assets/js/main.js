@@ -1,6 +1,6 @@
 $(document).ready(function(){
   Sprite = new Image(143,10800);
-  Sprite.src = "img/sprite.png";
+  Sprite.src = "../img/sprite.png";
 
   var random = Math.floor(Math.random() * 2) + 1;
 
