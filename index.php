@@ -14,7 +14,7 @@
   <div class="content"></div>
 </div>
 </body>
-<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-<script src="assets/js/main.js"></script>
-<script src="assets/js/ga.js"></script>
+<script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+<script src="assets/js/main.min.js"></script>
+<script src="assets/js/ga.min.js"></script>
 </html>
