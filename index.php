@@ -4,7 +4,7 @@
   <title>Online Kingsen - No more playing cards needed</title>
   <!-- Meta tags -->
   <meta name="description" content="Play online with your friends without the hazzle of using real cards that you might have forgotten">
-  <meta name="keywords" content="Kingsen, Beer, Online, Friends, Booze, Drunk, Party">
+  <meta name="keywords" content="kingsen, beer, online, friends, booze, drunk, party">
   <meta name="author" content="metatags generator">
   <meta name="robots" content="index, follow">
   <meta name="revisit-after" content="3 month">
