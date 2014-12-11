@@ -19,14 +19,12 @@
   <script type="text/javascript">var switchTo5x=true;</script>
   <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
   <script type="text/javascript">stLight.options({publisher: "58675fc9-b8df-48e5-b744-74557261f681", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-542d205c2ffc8507" async="async"></script>
 </head>
 <body>
 <div id="container">
   <div class="content"></div>
-  <span class='st_facebook_large' displayText='Facebook'></span>
-  <span class='st_twitter_large' displayText='Tweet'></span>
-  <span class='st_linkedin_large' displayText='LinkedIn'></span>
-  <span class='st_email_large' displayText='Email'></span>
+  <div class="addthis_sharing_toolbox"></div>
 </div>
 </body>
 <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
