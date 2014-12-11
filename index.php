@@ -16,8 +16,6 @@
   <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">
   <!-- Scripts/Stylesheets -->
   <link rel="stylesheet" href="assets/css/style.min.css"/>
-  <script type="text/javascript">var switchTo5x=true;</script>
-  <script type="text/javascript">stLight.options({publisher: "58675fc9-b8df-48e5-b744-74557261f681", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 </head>
 <body>
 <div id="container">
@@ -34,8 +32,7 @@
 </div>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-542d205c2ffc8507" async="async"></script>
 <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
-<script>$(document).ready(function(){Sprite=new Image(143,10800);Sprite.src="../img/sprite.png";var e=Math.floor(Math.random()*2)+1;$(".content").html(""+'<h1 class="title">Online Kingsen</h1>'+'<h2 class="name">Click on the card to start</h2>'+'<p class="sprite deck-'+e+'"></p>'+'<p class="description">Go ahead and share with your friends</p>');$(".content").fadeIn("fast");$(".content").on("click",function(){$.get("random.php",function(e){$(".content").html(e).show()})})})</script>
-
+<script>$(document).ready(function(){Sprite=new Image(143,10800);Sprite.src="assets/img/sprite.png";var e=Math.floor(Math.random()*2)+1;$(".content").html(""+'<h1 class="title">Online Kingsen</h1>'+'<h2 class="name">Click on the card to start</h2>'+'<p class="sprite deck-'+e+'"></p>'+'<p class="description">Go ahead and share with your friends</p>');$(".content").fadeIn("fast");$(".content").on("click",function(){$.get("random.php",function(e){$(".content").html(e).show()})})})</script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
