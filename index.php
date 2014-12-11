@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html http-equiv="Content-Type" content="text/html; charset=utf-8" lang="en">
+<html content="text/html; charset=utf-8" lang="en">
 <head>
   <title>Online Kingsen - No more playing cards needed</title>
   <!-- Meta tags -->
@@ -10,7 +10,7 @@
   <meta name="revisit-after" content="3 month">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0, maximum-scale=1.0">
   <meta name="google-site-verification" content="iiV8BbQqGT1TgpJBq5sZjCTmiqj3SbC8zVIraPVp2UM"/>
-  <link rel="publisher" href="https://plus.google.com/+ErikdeKamps" />
+  <link rel="publisher" href="https://plus.google.com/115220457418933996496" />
   <!-- Favicon -->
   <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
   <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">
@@ -21,11 +21,16 @@
 </head>
 <body>
 <div id="container">
-  <div class="content"></div>
-  <a href="https://api.addthis.com/oexchange/0.8/forward/facebook/offer?url=http%3A%2F%2Fwww.onlinekingsen.nl&pubid=ra-542d205c2ffc8507&ct=1&title=Online%20Kingsen%20-%20No%20more%20playing%20cards%20needed&pco=tbxnj-1.0" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/facebook.png" border="0" alt="Facebook"/></a>
-  <a href="https://api.addthis.com/oexchange/0.8/forward/twitter/offer?url=http%3A%2F%2Fwww.onlinekingsen.nl&pubid=ra-542d205c2ffc8507&ct=1&title=Online%20Kingsen%20-%20No%20more%20playing%20cards%20needed&pco=tbxnj-1.0" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/twitter.png" border="0" alt="Twitter"/></a>
-  <a href="https://api.addthis.com/oexchange/0.8/forward/linkedin/offer?url=http%3A%2F%2Fwww.onlinekingsen.nl&pubid=ra-542d205c2ffc8507&ct=1&title=Online%20Kingsen%20-%20No%20more%20playing%20cards%20needed&pco=tbxnj-1.0" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/linkedin.png" border="0" alt="LinkedIn"/></a>
-  <a href="https://api.addthis.com/oexchange/0.8/forward/google_plusone_share/offer?url=http%3A%2F%2Fwww.onlinekingsen.nl&pubid=ra-542d205c2ffc8507&ct=1&title=Online%20Kingsen%20-%20No%20more%20playing%20cards%20needed&pco=tbxnj-1.0" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/google_plusone_share.png" border="0" alt="Google+"/></a>
+  <div class="content">
+    <h1 class="title">Online Kingsen</h1>
+    <h2 class="name">Click on the card to start</h2>
+    <p class="sprite deck-' + random + '"></p>
+    <p class="description">Click on the card for a random new card.</p>
+  </div>
+  <a href="https://api.addthis.com/oexchange/0.8/forward/facebook/offer?url=http%3A%2F%2Fwww.onlinekingsen.nl&amp;amp;pubid=ra-542d205c2ffc8507&amp;ct=1&amp;title=Online%20Kingsen%20-%20No%20more%20playing%20cards%20needed&amp;pco=tbxnj-1.0" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/facebook.png" alt="Facebook"/></a>
+  <a href="https://api.addthis.com/oexchange/0.8/forward/twitter/offer?url=http%3A%2F%2Fwww.onlinekingsen.nl&amp;pubid=ra-542d205c2ffc8507&amp;ct=1&amp;title=Online%20Kingsen%20-%20No%20more%20playing%20cards%20needed&amp;pco=tbxnj-1.0" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/twitter.png" alt="Twitter"/></a>
+  <a href="https://api.addthis.com/oexchange/0.8/forward/linkedin/offer?url=http%3A%2F%2Fwww.onlinekingsen.nl&amp;pubid=ra-542d205c2ffc8507&amp;ct=1&amp;title=Online%20Kingsen%20-%20No%20more%20playing%20cards%20needed&amp;pco=tbxnj-1.0" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://api.addthis.com/oexchange/0.8/forward/google_plusone_share/offer?url=http%3A%2F%2Fwww.onlinekingsen.nl&amp;pubid=ra-542d205c2ffc8507&amp;ct=1&amp;title=Online%20Kingsen%20-%20No%20more%20playing%20cards%20needed&amp;pco=tbxnj-1.0" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/google_plusone_share.png" alt="Google+"/></a>
 </div>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-542d205c2ffc8507" async="async"></script>
 <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
