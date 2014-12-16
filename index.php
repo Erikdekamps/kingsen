@@ -1,9 +1,10 @@
 <!DOCTYPE HTML>
-<html content="text/html; charset=utf-8" lang="en">
+<html lang="en">
 <head>
-  <title>Online Kingsen - No more playing cards needed</title>
+  <title>Online Kingsen means no more playing cards needed</title>
   <!-- Meta tags -->
-  <meta name="description" content="Play online with your friends without the hazzle of using real cards that you might have forgotten">
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="description" content="Play Kingsen online with your friends. No need to bring regular playing cards anymore. Just play easily online.">
   <meta name="keywords" content="kingsen, beer, online, friends, booze, drunk, party">
   <meta name="author" content="metatags generator">
   <meta name="robots" content="index, follow">
